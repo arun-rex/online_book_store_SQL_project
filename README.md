@@ -131,7 +131,7 @@ Both solution files answer the same questions. Comparing them helped me learn al
 
 1. Clone the repository.
 2. Import the CSV files into SQL Server as described above.
-3. Run `My_Solution.sql` or `Mentor_Solution.sql` in SSMS.
+3. Run `Arun obs.sql` or `OnlineBookStore.sql` in SSMS.
 4. Compare outputs and explore further.
 
 ---
