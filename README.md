@@ -13,8 +13,8 @@ A beginner-to-intermediate SQL project built on **Microsoft SQL Server**. It use
 | `Orders.csv` | Order records – customer, book, order date, quantity, total amount |
 | `Schema.png` | Schema / ER diagram showing how the three tables relate |
 | `Questions.txt` | The list of questions solved in this project |
-| `My_Solution.sql` | My own solution to all questions |
-| `Mentor_Solution.sql` | Reference solution provided by my mentor |
+| `arun_obs.sql` | My own solution to all questions |
+| `OnlineBookStore.sql` | Reference solution provided by my mentor |
 
 > ⚠️ Rename the files above to match the actual file names in your repo.
 
